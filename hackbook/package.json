@@ -23,7 +23,7 @@
     "swiper": "^8.4.7",
     "react-webcam": "^7.2.0",
     "swiper": "^8.4.2",
-    "tesseract.js": "^3.0.2",
+    "tesseract.js": "^3.0.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
