@@ -11,7 +11,6 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@eslint/object-schema": "^2.1.4",
-    "@jridgewell/sourcemap-codec": "^1.4.8",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow/tfjs": "^4.20.0",
     "@testing-library/jest-dom": "^6.4.8",
@@ -34,8 +33,7 @@
     "rimraf": "^5.0.5",
     "swiper": "^8.4.7",
     "tesseract.js": "^3.0.3",
-    "web-vitals": "^2.1.4",
-    "workbox-background-sync": "^6.6.0"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -62,6 +60,8 @@
     ]
   },
   "devDependencies": {
-    "@rollup/plugin-terser": "^0.4.4"
+    "@jridgewell/sourcemap-codec": "^1.5.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "workbox-background-sync": "^7.1.0"
   }
 }
